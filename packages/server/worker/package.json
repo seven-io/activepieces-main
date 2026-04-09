@@ -12,7 +12,7 @@
     "tslib": "2.6.2",
     "axios": "1.8.3",
     "axios-retry": "4.4.1",
-    "fastify": "5.4.0",
+    "fastify": "5.8.3",
     "p-limit": "2.3.0",
     "chalk": "4.1.2",
     "chokidar": "3.6.0",
