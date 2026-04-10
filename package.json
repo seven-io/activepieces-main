@@ -144,7 +144,7 @@
     "async-mutex": "0.4.0",
     "axios": "1.8.3",
     "axios-retry": "4.4.1",
-    "basic-ftp": "5.0.5",
+    "basic-ftp": "5.2.2",
     "bcrypt": "6.0.0",
     "boring-avatars": "1.11.2",
     "buffer": "6.0.3",
